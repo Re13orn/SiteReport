@@ -1,0 +1,5 @@
+www.baidu.com	14.215.177.38	http://www.baidu.com	百度一下，你就知道	200	OK	BWS/1.1
+www.bilibili.com	59.36.232.4	http://www.bilibili.com	哔哩哔哩 (゜-゜)つロ 干杯~-bilibili	200	OK	None_server
+www.jd.com	182.106.172.3	http://www.jd.com	京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！	200	OK	nginx
+www.qq.com	121.14.77.201	http://www.qq.com	腾讯首页	200	OK	squid/3.5.24
+www.taobao.com	117.27.158.80	http://www.taobao.com	淘宝网 - 淘！我喜欢	200	OK	Tengine
